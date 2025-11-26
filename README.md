@@ -2,8 +2,6 @@
 
 > 청년을 위한 AI 기반 세금·법률 정보 제공 챗봇
 
-[![YouTube](https://img.shields.io/badge/YouTube-시연영상-red)](https://youtu.be/Zs_BI0OH89g)
-
 ---
 
 ## 📋 목차
@@ -29,7 +27,7 @@
 
 [![세금법률 챗봇 시연](https://img.youtube.com/vi/Zs_BI0OH89g/maxresdefault.jpg)](https://youtu.be/Zs_BI0OH89g)
 
-**[▶️ 시연 영상 보기](https://youtu.be/Zs_BI0OH89g)**
+
 ---
 
 ## 🔍 프로젝트 배경
